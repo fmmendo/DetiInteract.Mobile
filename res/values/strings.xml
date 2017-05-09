@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">DetiInteract.Mobile</string>
+<string name="connect">Ligar a um Display</string>
+<string name="no_paired">Nenhum Dispostivo Emparelhado</string>
+<string name="searching">Procurando Dispostivos</string>
+<string name="select_device">Seleccione um Ecrã</string>
+<string name="no_found">Nenhum Dispositivo Encontrado</string>
+<string name="feedback">Enviar Feedback</string>
+<string name="help">Ajuda</string>
+</resources>
